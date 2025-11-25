@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ohshin.my.id/my-porto/](https://ohshin.my.id/my-porto/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript,SQL Databases**
+- 💬 Ask me about **HTML, CSS, JavaScript, SQL Databases**
 
 - 📫 How to reach me **ahmadbahreisy123@gmail.com**
 
